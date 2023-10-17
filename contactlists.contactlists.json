@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "652efc6bd2244241526fe7ff"
+  },
+  "Nom": "Ben Lahmer",
+  "Prenom": "Fares",
+  "Email": "fares@gmail.com",
+  "age": 26
+},
+{
+  "_id": {
+    "$oid": "652efd56d2244241526fe800"
+  },
+  "Lastname": "Kefi",
+  "Firstname": "Anis",
+  "Email": "kefi@gmail.com",
+  "age": 15
+},
+{
+  "_id": {
+    "$oid": "652efda6d2244241526fe801"
+  },
+  "Lastname": "fatnassi",
+  "Firstname": "Sarra",
+  "Email": "sarra.f@gmail.com",
+  "age": 40
+}]
